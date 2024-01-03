@@ -14,6 +14,6 @@ vim.diagnostic.config({
      update_in_insert = true,
      -- virtual_text = false, 
      virtual_text = {
-          prefix = '●', -- Could be '●', '▎', 'x', '■' 
+          prefix ='■'  , -- Could be '●', '▎', 'x', '■' 
      }
  })
